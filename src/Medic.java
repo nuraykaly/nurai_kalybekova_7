@@ -1,3 +1,4 @@
+// Класс Medic
 public class Medic extends Hero {
     private int healPoints;
 
